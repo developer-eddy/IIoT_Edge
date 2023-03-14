@@ -1,0 +1,7 @@
+opencv-python
+time-python
+imagegrab-python
+pymysql-python
+paho.mqtt.client-python
+RPi.GPIO-python
+spidev-python
